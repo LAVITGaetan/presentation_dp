@@ -1,0 +1,4 @@
+
+function seConnecter() {
+    alert('erreur');
+}

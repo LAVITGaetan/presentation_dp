@@ -1,0 +1,6 @@
+
+
+            <form class="profil_upload" action="upload-manager.php" method="post" enctype="multipart/form-data">
+                <input class="selection_photo" type="file" name="photo">
+                <input class="ajout_photo" type="submit" name="upload" value="Modifier la photo">
+            </form>
